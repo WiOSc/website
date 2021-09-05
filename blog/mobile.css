@@ -1,1 +1,1 @@
-.link-list__item,.link-list__item:visited{width:auto;padding:25px;margin:auto}.link-list__meta{font-size:0.7rem}
+.link-list__item,.link-list__item:visited{width:min(85%, 400px);padding:25px;margin:auto}.link-list__meta{font-size:0.7rem}.blog__content table{overflow-x:scroll}.blog__content table td{padding:5px}
