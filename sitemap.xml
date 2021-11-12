@@ -24,6 +24,10 @@
         <loc>https://staging.wios.co.in/events/</loc>
     </url>
     <url>
+        <loc>https://staging.wios.co.in/events/hacktoberfest-techcast-ep4/</loc>
+        <lastmod>2021-10-11</lastmod>
+    </url>
+    <url>
         <loc>https://staging.wios.co.in/events/wistia-ux-hands-on-workshop/</loc>
         <lastmod>2021-08-22</lastmod>
     </url>
