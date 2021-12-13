@@ -10,11 +10,10 @@ banner = "/events/ReactX - 2/banner.png"
 
 -   Registration link: [Google
     Form](https://docs.google.com/forms/d/e/1FAIpQLSccwKmhwbtgewiMCzgRBajirg7edB0hVSTEdQgNWwnIl-KiHw/viewform)
--   Meeting link:
-    [Will be announced]
+-   Meeting link: Will be announced
+
 
 Episode 1 was a hit and dealt with the basics of React JS, we’re back with second episode from the REACTEX series.
-
 Ever wondered how authentication works? No worries this workshop covers everything in detail!
 
 ## What to expect?
