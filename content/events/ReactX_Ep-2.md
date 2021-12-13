@@ -4,14 +4,14 @@ date = 2021-12-19
 description = "In this workshop we’ll be building a simple Job Portal with ReactJs and NodeJS"
 [extra]
 banner = "/events/ReactX - 2/banner.png"
-youtube = "#"
 +++
 
 ## Details
 
-- Registration link: [Google
-  Form](https://docs.google.com/forms/d/e/1FAIpQLSccwKmhwbtgewiMCzgRBajirg7edB0hVSTEdQgNWwnIl-KiHw/viewform)
-- Meeting link:
+-   Registration link: [Google
+    Form](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSdUFgBIP-B8-sprFmXYsM2Ohnw7jvla0Blzong8LP-oZg0a5A/viewform?vc%3D0%26c%3D0%26w%3D1%26flr%3D0%26usp%3Dmail_form_link&source=gmail&ust=1636656883975000&usg=AFQjCNFVpKTFHqH_OZ-SqAR2_2AkJaVeJg)
+-   Meeting link:
+    [Zoom](https://zoom.us/j/99390700796?pwd=K2VVZTFiTUtGNEg0NS9jeCt5d2V0QT09)
 
 ## What is React?
 
@@ -22,21 +22,17 @@ applications.
 React allows for state to be bundled together with the components, which
 enables developers to build declarative apps.
 
-## What is NodeJS?
-
-Node.js is an open-source, cross-platform, back-end JavaScript
-runtime environment that runs on the V8 engine and executes
-JavaScript code outside a web browser.
-
 ## Goals
 
-In this workshop we’ll be building a simple Job Portal. The
-following concepts will be used in building the Job Portal:
+In this workshop we’ll be building a simple escape room game. The
+following concepts will be used in building the game:
 
-- API Basics
-- Navigation and Routing SPA
-- AJAX calls to Service calls
-- Implementation of Sign Up + Sign In + Sign Out Functionalities
+-   JavaScript Basics
+-   Setting up the React development environment
+-   Class & Functional components
+-   `useState` Hook that lets you use React state with functional components
+-   Event Handling in React
+-   Some interesting mouse pointer listeners
 
 ## Speaker information
 
