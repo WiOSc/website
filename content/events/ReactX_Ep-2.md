@@ -29,8 +29,5 @@ Some of the topics that will be covered include:
 
 ## Speaker information
 
-# [Mr. Praveen Kumar Purushothaman](https://praveen.science/) is a Full Stack JavaScript Specialist, Mentor and an open-source Enthusiast.
-
-- Registration link: [Google
-  Form](https://docs.google.com/forms/d/e/1FAIpQLSccwKmhwbtgewiMCzgRBajirg7edB0hVSTEdQgNWwnIl-KiHw/viewform)
-- Meeting link: Will be announced
+[Mr. Praveen Kumar Purushothaman](https://praveen.science/) is a Full Stack JavaScript Specialist, Mentor and an open-source Enthusiast.
+He is also a Youtuber, Blogger, Author and Speaker.
